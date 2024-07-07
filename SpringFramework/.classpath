@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Igniquest/PublicRepository/Spring-Framework/SpringFramework/lib/spring-context-5.3.30.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
